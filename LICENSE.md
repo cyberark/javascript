@@ -1,5 +1,6 @@
 MIT License
 
+Copyright (c) 2012 Airbnb
 Copyright (c) 2020 CyberArk Software Ltd. All rights reserved.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
